@@ -4,4 +4,4 @@
 
 프로젝트 전체에 대한 문서는 여기서 보실 수 있습니다. https://github.com/ToyCon/pokecrepe
 
-문해주셔서 감사합니다.
+방문해주셔서 감사합니다.
