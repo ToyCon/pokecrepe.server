@@ -1,0 +1,25 @@
+{
+  "name": "pokecrepe.server",
+  "version": "1.0.0",
+  "description": "pokecrepe server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToyCon/pokecrepe.server.git"
+  },
+  "keywords": [
+    "pokecrepe"
+  ],
+  "author": "ToyCon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToyCon/pokecrepe.server/issues"
+  },
+  "homepage": "https://github.com/ToyCon/pokecrepe.server#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
