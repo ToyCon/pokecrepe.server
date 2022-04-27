@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ToyCon/pokecrepe.server#readme",
   "dependencies": {
-    "express": "^4.18.0"
+    "express": "^4.18.0",
+    "ts-node": "^10.7.0"
   }
 }
